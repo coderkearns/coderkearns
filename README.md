@@ -1,8 +1,11 @@
 <h1 align="center">Hi 👋, I'm coderkearns</h1>
+<h3 align="center">A frontend/backend developer and perpetual student.</h3>
 
-> 😴 Disconnected until November 2025, as I will be on a [mission trip](https://www.churchofjesuschrist.org/comeuntochrist/belong/share-goodness/who-are-the-missionaries) for The Church of Jesus Christ of Latter-Day Saints! Feel free to mention me I guess, but I won't see it for a while (;
+- 👨‍💻 Find my projects at [github.com/coderkearns](https://github.com/coderkearns)
 
-<h4 align="left">Languages and Tools:</h4>
+- 📫 Reach me at **coder.kearns@gmail.com**
+
+<h3 align="left">Languages and Tools:</h3>
 <p align="left">
     <a href="https://babeljs.io/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40" />
     <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40" /><a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" /></a>
